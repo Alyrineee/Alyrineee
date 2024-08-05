@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=postgresql,nginx,django,python,cpp,cs,html,css,git,ubuntu,sqlite,netlify,bash,bots,discord,typescript,javascript,vite,npm,yarn&perline=7))]
-<!--
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postgresql,nginx,django,python,cpp,cs,html,css,git,ubuntu,sqlite,netlify,bash,bots,discord,typescript,javascript,vite,npm,yarn&perline=7" />
+</div><!--
 **Alyrineee/Alyrineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -4,10 +4,7 @@
 <pre>
     💼 Back-end dev 
     💻 Python • Django 
-    📖 My skills ↓↓↓
 </pre>
-<br><br>
-<img src="https://skillicons.dev/icons?i=postgresql,nginx,django,python,cpp,cs,html,css,git,ubuntu,sqlite,netlify,bash,bots,discord,typescript,javascript,vite,npm,yarn,redis&perline=7" />
-<br><br>
+
 <br><br><br>
 </div>
